@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-Console.WriteLine( "young shooter" );
+Console.WriteLine( "lillemand" );
 Console.WriteLine("KAJ");
-Console.WriteLine( "young shooter" );
+Console.WriteLine( "shisko" );
 Console.WriteLine(":))))");
