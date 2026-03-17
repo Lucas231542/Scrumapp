@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine( "young shooter" );
 Console.WriteLine("KAJ");
+Console.WriteLine( "young shooter" );
+Console.WriteLine(":))))");
