@@ -1,4 +1,4 @@
 <Solution>
   <Project Path="../ScrumLibary/ScrumLibary.csproj" Id="0267f632-6b58-4c08-96c9-e9dcada37ff5" />
-  <Project Path="Scrumapp.csproj" />
+  <Project Path="ScrumCode.csproj" />
 </Solution>
